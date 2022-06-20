@@ -4,3 +4,7 @@ A REST API for a user based service/component. Developed with NodeJS and Express
 # To Do
 - Configure Swagger UI for Users API documentation.
 - Implement database copnnection and communication middleware.
+- Choose CI tooling and implementation scripts.
+-- Implement CI linting for Javascript.
+-- Implement CI formating for codebase.
+-- Implement CI Tests for NodeJS, Express.
