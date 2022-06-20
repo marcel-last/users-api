@@ -3,7 +3,7 @@
     "info": {
       "version": "0.0.1",
       "title": "users-api",
-      "description": "A basic REST API for a user based service.",
+      "description": "A REST API for a user service.",
       "license": {
         "name": "MIT",
         "url": "https://opensource.org/licenses/MIT"
