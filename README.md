@@ -1,2 +1,6 @@
 # users-api
-REST API for users based service. Developed with NodeJS and Express with a Swagger API Specification
+A REST API for a user based service/component. Developed with NodeJS and Express with a Swagger API Specification
+
+# To Do
+- Configure Swagger UI for Users API documentation.
+- Implement database copnnection and communication middleware.
